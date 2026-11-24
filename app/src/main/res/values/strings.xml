@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nater</string>
+    <string name="footer_made_by">Made by Prakhar Sumant</string>
+    <string name="firebase_notice_title">Offline &amp; Sample AI Mode</string>
+    <string name="firebase_notice_body">Live Gemini responses require Firebase. Offline GK, voice mode, and free media links work right away.</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline Ready</string>
+    <string name="chat_placeholder">Ask Nater about GK, science, or free songs &amp; movies…</string>
+    <string name="voice_listening">Listening… Speak your question</string>
+    <string name="voice_permission_rationale">Microphone access lets you ask Nater questions hands-free by voice.</string>
+    <string name="new_chat">New Chat</string>
+    <string name="nav_chat">Assistant</string>
+    <string name="nav_knowledge">Offline GK</string>
+    <string name="nav_media">Free Media</string>
+    <string name="nav_settings">Settings</string>
+</resources>

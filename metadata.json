@@ -1,0 +1,6 @@
+{
+  "name": "Nater",
+  "description": "Minimalist conversational AI assistant for GK, academics, voice interaction, offline access, and public-domain media discovery — made by Prakhar Sumant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
